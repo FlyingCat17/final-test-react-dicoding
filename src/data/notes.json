@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Babel",
+    "body": "Babel merupakan tools open-source yang digunakan untuk mengubah sintaks ECMAScript 2015+ menjadi sintaks yang didukung oleh JavaScript engine versi lama. Babel sering dipakai ketika kita menggunakan sintaks terbaru termasuk sintaks JSX.",
+    "archived": true,
+    "createdAt": "2022-04-14 04:27:34.572"
+  },
+  {
+    "id": 2,
+    "title": "Webpack",
+    "body": "Webpack merupakan tools open-source yang digunakan untuk mengelola asset dan dependency pada proyek JavaScript. Webpack akan membaca semua file JavaScript pada proyek kita sebagai dependency, lalu membuat dependency graph berdasarkan file-file tersebut. Setelah itu, Webpack akan mengemas semua file tersebut menjadi satu atau beberapa file bundle.",
+    "archived": false,
+    "createdAt": "2022-04-14 04:27:34.572"
+  },
+  {
+    "id": 3,
+    "title": "ESLint",
+    "body": "ESLint merupakan tools open-source yang digunakan untuk menganalisis kode JavaScript kita dan menemukan masalah potensial pada kode tersebut. ESLint juga dapat digunakan untuk memastikan kode yang kita tulis sesuai dengan standar yang ditentukan.",
+    "archived": true,
+    "createdAt": "2022-04-14 04:27:34.572"
+  },
+  {
+    "id": 4,
+    "title": "Prettier",
+    "body": "Prettier merupakan tools open-source yang digunakan untuk memformat kode JavaScript kita. Prettier akan mengubah kode yang kita tulis menjadi format yang telah ditentukan.",
+    "archived": false,
+    "createdAt": "2022-04-14 04:27:34.572"
+  },
+  {
+    "id": 5,
+    "title": "React",
+    "body": "React merupakan library JavaScript yang digunakan untuk membangun antarmuka pengguna (user interface/UI) pada aplikasi web. React dikembangkan oleh Facebook dan banyak digunakan oleh perusahaan-perusahaan besar seperti Netflix, Instagram, Airbnb, dan Twitter.",
+    "archived": true,
+    "createdAt": "2022-04-14 04:27:34.572"
+  },
+  {
+    "id": 6,
+    "title": "React Router",
+    "body": "React Router merupakan library JavaScript yang digunakan untuk membuat aplikasi React yang memiliki banyak halaman. React Router akan memanipulasi URL pada browser sehingga kita dapat membuat aplikasi React yang memiliki banyak halaman.",
+    "archived": false,
+    "createdAt": "2022-04-14 04:27:34.572"
+  }
+]
